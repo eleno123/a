@@ -1,0 +1,32 @@
+﻿  Source.c
+C:\Users\Elen\Desktop\a\Vjezba 2\Source.c(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Elen\Desktop\a\Vjezba 2\Source.c(30,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\Elen\Desktop\a\Vjezba 2\Source.c(30,10): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\Elen\Desktop\a\Vjezba 2\Source.c(30,10): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\Elen\Desktop\a\Vjezba 2\Source.c(30,10): message : this argument is used as a buffer size
+C:\Users\Elen\Desktop\a\Vjezba 2\Source.c(66,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\Elen\Desktop\a\Vjezba 2\Source.c(66,11): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\Elen\Desktop\a\Vjezba 2\Source.c(66,11): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\Elen\Desktop\a\Vjezba 2\Source.c(66,11): message : this argument is used as a buffer size
+C:\Users\Elen\Desktop\a\Vjezba 2\Source.c(22,1): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+C:\Users\Elen\Desktop\a\Vjezba 2\Source.c(74,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\Elen\Desktop\a\Vjezba 2\Source.c(74,10): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\Elen\Desktop\a\Vjezba 2\Source.c(74,10): message : the missing variadic argument 2 is required by format string '%s'
+C:\Users\Elen\Desktop\a\Vjezba 2\Source.c(74,10): message : this argument is used as a buffer size
+C:\Users\Elen\Desktop\a\Vjezba 2\Source.c(76,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\Elen\Desktop\a\Vjezba 2\Source.c(76,10): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\Elen\Desktop\a\Vjezba 2\Source.c(76,10): message : the missing variadic argument 2 is required by format string '%s'
+C:\Users\Elen\Desktop\a\Vjezba 2\Source.c(76,10): message : this argument is used as a buffer size
+C:\Users\Elen\Desktop\a\Vjezba 2\Source.c(107,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\Elen\Desktop\a\Vjezba 2\Source.c(107,10): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\Elen\Desktop\a\Vjezba 2\Source.c(107,10): message : the missing variadic argument 2 is required by format string '%s'
+C:\Users\Elen\Desktop\a\Vjezba 2\Source.c(107,10): message : this argument is used as a buffer size
+C:\Users\Elen\Desktop\a\Vjezba 2\Source.c(109,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\Elen\Desktop\a\Vjezba 2\Source.c(109,10): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\Elen\Desktop\a\Vjezba 2\Source.c(109,10): message : the missing variadic argument 2 is required by format string '%s'
+C:\Users\Elen\Desktop\a\Vjezba 2\Source.c(109,10): message : this argument is used as a buffer size
+C:\Users\Elen\Desktop\a\Vjezba 2\Source.c(134,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\Elen\Desktop\a\Vjezba 2\Source.c(134,10): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\Elen\Desktop\a\Vjezba 2\Source.c(134,10): message : the missing variadic argument 2 is required by format string '%s'
+C:\Users\Elen\Desktop\a\Vjezba 2\Source.c(134,10): message : this argument is used as a buffer size
+  Vjezba 2.vcxproj -> C:\Users\Elen\Desktop\a\Vjezba 2\x64\Debug\Vjezba 2.exe
