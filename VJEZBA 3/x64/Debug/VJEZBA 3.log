@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\Elen\Desktop\strukture\VJEZBA 3\Source.c(26,1): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+C:\Users\Elen\Desktop\strukture\VJEZBA 3\Source.c(268,6): warning C4101: 'indeks': unreferenced local variable
+  VJEZBA 3.vcxproj -> C:\Users\Elen\Desktop\strukture\VJEZBA 3\x64\Debug\VJEZBA 3.exe
