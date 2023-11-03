@@ -16,7 +16,7 @@ void PrintList(osoba* people);
 osoba* AddAtEnd(osoba* people);
 void SearchBySurname(osoba* people);
 void Delete(osoba* people);
-void AddAfter(osoba* people);
+osoba* AddAfter(osoba* people);
 osoba* AddBefore(osoba* people);
 osoba* ReadFile();
 void WriteFile(osoba* people);
@@ -61,7 +61,7 @@ int main() {
 			break;
 		case 'G':
 		case 'g':
-			AddAfter(people);
+			people=AddAfter(people);
 			break;
 		case 'H':
 		case 'h':
@@ -195,8 +195,9 @@ void Delete(osoba* people) {
 	printf("Dali ste nepostojeci indeks\n");
 }
 
-void AddAfter(osoba* people) {
+osoba* AddAfter(osoba* people) {
 	osoba* new = (osoba*)malloc(sizeof(osoba));
+	osoba* begin=people;
 	printf("Unesite Ime osobe\n");
 	scanf("%s", new->name);
 	printf("Unesite Prezime osobe\n");
@@ -211,7 +212,7 @@ void AddAfter(osoba* people) {
 
 	while (people != NULL) {
 
-		if (brojac == indeks == 0) {
+		if (brojac == indeks && indeks == 0) {
 			people->next = new;
 			break;
 		}
@@ -223,7 +224,7 @@ void AddAfter(osoba* people) {
 		people = people->next;
 		brojac++;
 	}
-
+return begin;
 }
 osoba* AddBefore(osoba* people) {
 	osoba* begin = people;
