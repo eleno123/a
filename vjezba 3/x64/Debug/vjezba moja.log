@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\Elen\Documents\vjezbe\vjezba moja\Source.c(33,1): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+  vjezba moja.vcxproj -> C:\Users\Elen\Documents\vjezbe\vjezba moja\x64\Debug\vjezba moja.exe
