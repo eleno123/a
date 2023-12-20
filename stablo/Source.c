@@ -31,15 +31,17 @@ int main() {
 	
 	root = dodaj(root,br);
 
-	printf("unesi a za dodat novi br\n"
+	
+
+	while (1) {
+
+		printf("unesi a za dodat novi br\n"
 			"unesi i za inorder\n"
 			"unesi p za postorder\n"
 			"unesi r za preorder\n"
 			"unesi k za kraj\n");
 	scanf("%c", &op);
-
-	while (op != 'k') {
-
+		
 		switch (op) {
 
 		case 'a':
@@ -64,7 +66,7 @@ int main() {
 			break;
 		
 		default:
-			break;
+			return 0;
 
 		}
 
@@ -99,7 +101,7 @@ pozicija stvoricvor(int br) {
 
 pozicija dodaj(pozicija root, int br) {
 
-	if (root = NULL)
+	if (root == NULL)
 		return stvoricvor(br);
 
 	if (br < root->broj)
