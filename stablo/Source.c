@@ -70,13 +70,7 @@ int main() {
 
 		}
 
-		printf("unesi a za dodat novi br\n"
-			"unesi i za inorder\n"
-			"unesi p za postorder\n"
-			"unesi r za preorder\n"
-			"unesi k za kraj\n");
-		scanf("%c", &op);
-
+	
 
 	}
 
