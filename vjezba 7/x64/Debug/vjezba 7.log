@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\Elen\Desktop\vjezba 7\Source.c(179,20): warning C4047: 'return': 'int' differs in levels of indirection from 'void *'
+C:\Users\Elen\Desktop\vjezba 7\Source.c(184): warning C4715: 'push': not all control paths return a value
+  vjezba 7.vcxproj -> C:\Users\Elen\Desktop\vjezba 7\x64\Debug\vjezba 7.exe
