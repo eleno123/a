@@ -1,0 +1,5 @@
+hrvatska hrvatska.txt
+belgija belgija.txt
+njemacka njemacka.txt
+austrija austrija.txt
+italija italija.txt
